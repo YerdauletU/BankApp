@@ -1,0 +1,21 @@
+{
+    "COLORS": {
+        "WHITESMOKE": "#f3f3f3",
+        "BROWN": "#261F1D",
+        "BROWNDARK": "#261F1D",
+        "GREEN": "#5ebe64",
+        "GREENB": "#61B61F",
+        "GREENL": "#9CD94F",
+        "GREENM": "#8EB51C",
+        "YELLOW": "#FFF500",
+        "YELLOWDARK": "#fcd34d",
+        "RED": "#ea5050",
+        "BORDO": "#D91E1E",
+        "BLUE": "#1f1a17",
+        "WHITE": "#fff",
+        "GRAY": "#F2F2F2",
+        "BLACK": "#333",
+        "ORANGEDARK": "#F27405",
+        "ORANGELIGHT": "#F29F05"
+    }
+}

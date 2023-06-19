@@ -1,0 +1,6 @@
+{
+    "ENDPOINT": "https://api.currencyapi.com/v3/latest",
+    "API_KEY": "CAFavxRfTumMQbpAjhdXc828owWNTHOtlp2pH7gx",
+    "CURRENCY": "KZT",
+    "CURRENCIES": ["USD", "RUB", "EUR"]
+}
